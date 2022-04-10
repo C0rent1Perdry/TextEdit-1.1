@@ -1,4 +1,4 @@
-# TextEdit-1.1 #
+# TextEdit-1.2 #
 A small module for to display the letters at the sequence.  
 The Github Repo with the source code is:[link] (https://github.com/C0rent1Perdry/TextEdit-1.1)  
 For windows, you must install the folder TextEdit in C:\Users\you_account\AppData\Local\python\python-version\Lib\  
